@@ -11,6 +11,6 @@ I am available for work and internships during the summer (May to September). My
 - TypeScript
 - Basic Algorithms
 
-Feel free to contact via LinkedIn for more information.
+Feel free to contact via [LinkedIn](https://www.linkedin.com/in/cheesysloth/) for more information.
 
-Stay Cheesy :)
+> Stay Cheesy :)
